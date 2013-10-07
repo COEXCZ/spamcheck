@@ -2,7 +2,7 @@
 
 __version__ = '1.0.0'
 __all__ = ('spamcheck',)
-__author__ = "Jan Češpivo, COEX CZ s.r.o (http://www.coex.cz)"
+__author__ = u"Jan Češpivo, COEX CZ s.r.o (http://www.coex.cz)"
 
 from urllib2 import Request, urlopen
 from simplejson import dumps, loads
