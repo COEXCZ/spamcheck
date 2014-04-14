@@ -15,7 +15,7 @@ setup(
     description=DESCRIPTION,
     author=AUTHOR,
     author_email=AUTHOR_EMAIL,
-    license="LICENSE.txt",
+    license="LICENSE",
     url=URL,
     packages=find_packages(),
     classifiers=[
